@@ -1,0 +1,144 @@
+{
+    "simulation_name": "031/Lev3",
+    "alternative_names": [
+        "BFI:q8_3dAl:031",
+        "SXS:BBH:1442"
+    ],
+    "initial_data_type": "BBH_SKS",
+    "object_types": "BHBH",
+    "number_of_orbits": 17.3834431071,
+    "reference_mass_ratio": 6.585688599621629,
+    "reference_chi_eff": -0.63960875535752,
+    "reference_chi1_perp": 1.3483058146883928e-06,
+    "reference_chi2_perp": 4.964766045863037e-07,
+    "reference_eccentricity": 0.0005355,
+    "reference_dimensionless_spin1": [
+        -1.02927678732e-07,
+        6.32832071332e-07,
+        -0.709621960444
+    ],
+    "reference_dimensionless_spin2": [
+        -4.80047357911e-07,
+        1.80641282836e-07,
+        -0.178523588803
+    ],
+    "reference_orbital_frequency": [
+        1.32840375763e-08,
+        1.77119689482e-08,
+        0.01910947663
+    ],
+    "reference_mass1": 0.868287501724,
+    "reference_mass2": 0.131844603429,
+    "reference_time": 640.0,
+    "reference_position1": [
+        1.51253798737,
+        -1.02325973005,
+        9.41502771805e-05
+    ],
+    "reference_position2": [
+        -10.0293153843,
+        6.46752897607,
+        9.52306729092e-05
+    ],
+    "reference_mean_anomaly": 4.537958,
+    "keywords": [],
+    "point_of_contact_email": "jonathan.blackman.0@gmail.com",
+    "authors_emails": [],
+    "simulation_bibtex_keys": [
+        "Varma:2018mmi",
+        "Boyle:2019kee",
+        "SXSCatalogWebsite"
+    ],
+    "code_bibtex_keys": [
+        "Ossokine:2013zga",
+        "Hemberger:2012jz",
+        "Szilagyi:2009qz",
+        "Boyle:2009vi",
+        "Scheel:2008rj",
+        "Boyle:2007ft",
+        "Scheel:2006gg",
+        "Lindblom:2005qh",
+        "Pfeiffer:2002wt",
+        "SpECwebsite"
+    ],
+    "initial_data_bibtex_keys": [
+        "Buchman:2012dw",
+        "Lovelace:2008tw",
+        "Pfeiffer:2007yz",
+        "Caudill:2006hw",
+        "Cook:2004kt"
+    ],
+    "quasicircular_bibtex_keys": [
+        "Mroue:2012kv",
+        "Buonanno:2010yk",
+        "Mroue:2010re",
+        "Boyle:2007ft"
+    ],
+    "initial_separation": 13.6226196289,
+    "initial_orbital_frequency": 0.018269711502,
+    "initial_adot": -5.23242154872e-05,
+    "object1": "bh",
+    "object2": "bh",
+    "initial_ADM_energy": 0.9964943826153914,
+    "initial_ADM_linear_momentum": [
+        1.00280451e-07,
+        7.03453422e-08,
+        9.36797e-11
+    ],
+    "initial_ADM_angular_momentum": [
+        -1.94459e-11,
+        1.1105e-12,
+        -0.0305910484686221
+    ],
+    "initial_mass1": 0.8681565427521419,
+    "initial_mass2": 0.1318434277272943,
+    "initial_dimensionless_spin1": [
+        -1.427e-13,
+        3.78e-14,
+        -0.7098651130547764
+    ],
+    "initial_dimensionless_spin2": [
+        -1.623e-13,
+        6.2e-15,
+        -0.1786010976649185
+    ],
+    "initial_position1": [
+        1.823314302880713,
+        0.0289280343244942,
+        -9.36666951e-08
+    ],
+    "initial_position2": [
+        -11.799305326019288,
+        0.0289280343244942,
+        -9.36666951e-08
+    ],
+    "relaxation_time": 640.0,
+    "common_horizon_time": 4373.87964628,
+    "remnant_mass": 0.990928702258,
+    "remnant_dimensionless_spin": [
+        -2.86347721254e-07,
+        1.24921658239e-06,
+        -0.130408835136
+    ],
+    "remnant_velocity": [
+        0.000450348907562,
+        0.000230368675293,
+        4.62771326509e-07
+    ],
+    "metadata_version": 1,
+    "spec_revisions": "InitialCommit-30391-g7de1691",
+    "spells_revision": "7de1691a20fa3565c2276fa60966e8a261a47fe7",
+    "com_parameters": {
+        "space_translation": [
+            0.01447783,
+            -0.05499606,
+            -0.00023228
+        ],
+        "boost_velocity": [
+            -7.30974434e-06,
+            4.13788924e-05,
+            4.50043729e-07
+        ]
+    },
+    "initial_mass_ratio": 6.584754035277678
+}

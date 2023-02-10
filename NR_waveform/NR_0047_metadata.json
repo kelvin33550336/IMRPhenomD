@@ -1,0 +1,158 @@
+{
+    "simulation_name": "d14.0_q3.0_s0_0_0.5_s0_0_0.5/Lev5",
+    "alternative_names": "SXS:BBH:0047",
+    "initial_data_type": "BBH_CFMS",
+    "object_types": "BHBH",
+    "number_of_orbits": 22.7176857636,
+    "reference_mass_ratio": 2.9998073970350196,
+    "reference_chi_eff": 0.4995059980741276,
+    "reference_chi1_perp": 8.553020939733741e-12,
+    "reference_chi2_perp": 2.416164203590733e-12,
+    "reference_eccentricity": 0.0004925,
+    "reference_dimensionless_spin1": [
+        7.94359155264e-12,
+        2.87003864661e-13,
+        0.499546
+    ],
+    "reference_dimensionless_spin2": [
+        -1.523877297e-12,
+        -7.08535978197e-13,
+        0.499386000001
+    ],
+    "reference_orbital_frequency": [
+        -1.82899710354e-14,
+        5.20419452999e-14,
+        0.017430120348
+    ],
+    "reference_mass1": 0.750332484923,
+    "reference_mass2": 0.250126886701,
+    "reference_time": 230.0,
+    "reference_position1": [
+        -2.33916518837,
+        -2.59739822982,
+        -1.16419433814e-10
+    ],
+    "reference_position2": [
+        6.90009719372,
+        7.7800667704,
+        -1.37708880882e-10
+    ],
+    "reference_mean_anomaly": 0.915273,
+    "keywords": [
+        "Aligned-Spins",
+        "ManyMergers-QuasiCircular"
+    ],
+    "point_of_contact_email": "mroue@cita.utoronto.ca",
+    "authors_emails": [
+        "Mike Boyle <boyle@astro.cornell.edu>",
+        "Dan Hemberger <daniel.hemberger@gmail.com>",
+        "Larry Kidder  <kidder@astro.cornell.edu>",
+        "Geoffrey Lovelace <glovelace@fullerton.edu>",
+        "Abdul Mroue <mroue@cita.utoronto.ca>",
+        "Harald Pfeiffer <pfeiffer@cita.utoronto.ca>",
+        "Mark Scheel <scheel@tapir.caltech.edu>",
+        "Bela Szilagyi <bela@caltech.edu>",
+        "Nicholas Taylor <nwt2@cornell.edu>",
+        "Anil Zenginoglu <anil@caltech.edu>"
+    ],
+    "simulation_bibtex_keys": [
+        "Mroue:2013xna",
+        "Boyle:2019kee",
+        "SXSCatalogWebsite"
+    ],
+    "code_bibtex_keys": [
+        "Ossokine:2013zga",
+        "Hemberger:2012jz",
+        "Szilagyi:2009qz",
+        "Boyle:2009vi",
+        "Scheel:2008rj",
+        "Boyle:2007ft",
+        "Scheel:2006gg",
+        "Lindblom:2005qh",
+        "Pfeiffer:2002wt",
+        "SpECwebsite"
+    ],
+    "initial_data_bibtex_keys": [
+        "Buchman:2012dw",
+        "Lovelace:2008tw",
+        "Pfeiffer:2007yz",
+        "Caudill:2006hw",
+        "Cook:2004kt"
+    ],
+    "quasicircular_bibtex_keys": [
+        "Mroue:2012kv",
+        "Buonanno:2010yk",
+        "Mroue:2010re",
+        "Boyle:2007ft"
+    ],
+    "initial_separation": 14.0,
+    "initial_orbital_frequency": 0.01730249,
+    "initial_adot": -2.8624068999e-05,
+    "object1": "bh",
+    "object2": "bh",
+    "initial_ADM_energy": 0.9945508442816531,
+    "initial_ADM_linear_momentum": [
+        2.29684704e-08,
+        -5.8335981e-09,
+        -6.6010716e-09
+    ],
+    "initial_ADM_angular_momentum": [
+        3.0118941831e-06,
+        -1.5605343222e-06,
+        1.1037512889450767
+    ],
+    "initial_mass1": 0.750000000518097,
+    "initial_mass2": 0.249999999725595,
+    "initial_dimensionless_spin1": [
+        -1.7e-15,
+        -2.35000000001e-14,
+        0.500000000184
+    ],
+    "initial_dimensionless_spin2": [
+        1.35e-14,
+        -1.81000000001e-14,
+        0.499999999498
+    ],
+    "initial_position1": [
+        3.483711653558912,
+        0.0149234107994822,
+        0.0
+    ],
+    "initial_position2": [
+        -10.516288346441089,
+        0.0149234107994822,
+        0.0
+    ],
+    "relaxation_time": 230.0,
+    "common_horizon_time": 5362.86046379,
+    "remnant_mass": 0.958605730062,
+    "remnant_dimensionless_spin": [
+        4.59031196814e-09,
+        -1.602926663e-08,
+        0.768616541298
+    ],
+    "remnant_velocity": [
+        -0.000133043096144,
+        -0.000208594429158,
+        8.29217141207e-09
+    ],
+    "metadata_version": 1,
+    "spec_revisions": [
+        "InitialCommit-22650-g2a99d19",
+        "InitialCommit-22718-g777834e"
+    ],
+    "spells_revision": "InitialCommit-21848-g8d8a7d7",
+    "com_parameters": {
+        "space_translation": [
+            -0.0170959783,
+            0.0023208538,
+            -1.8283068e-09
+        ],
+        "boost_velocity": [
+            -1.56392097e-06,
+            -1.26626214e-06,
+            1.0688074e-12
+        ]
+    },
+    "initial_mass_ratio": 3.0000000053652482
+}

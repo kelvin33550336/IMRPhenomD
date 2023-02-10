@@ -1,0 +1,155 @@
+{
+    "simulation_name": "d18.0_q1.5_s0.5_0_0_s0_0_0E/Lev6",
+    "alternative_names": "SXS:BBH:0018",
+    "initial_data_type": "BBH_CFMS",
+    "object_types": "BHBH",
+    "number_of_orbits": 29.1435756556,
+    "reference_mass_ratio": 1.5006762153224102,
+    "reference_chi_eff": 0.0007553053468682062,
+    "reference_chi1_perp": 0.49952230367994294,
+    "reference_chi2_perp": 9.114961148148786e-09,
+    "reference_eccentricity": 0.000393,
+    "reference_dimensionless_spin1": [
+        0.487323752256,
+        0.109718069173,
+        0.00127339228572
+    ],
+    "reference_dimensionless_spin2": [
+        5.7124209812e-09,
+        3.19658668045e-09,
+        1.44700819173e-07
+    ],
+    "reference_orbital_frequency": [
+        8.85811395701e-05,
+        -0.000395038757194,
+        0.0123410242838
+    ],
+    "reference_mass1": 0.600270749187,
+    "reference_mass2": 0.400000175293,
+    "reference_time": 450.0,
+    "reference_position1": [
+        5.1195653136,
+        -4.98003400506,
+        -0.165028123333
+    ],
+    "reference_position2": [
+        -7.70194806507,
+        7.4433915659,
+        0.324678300118
+    ],
+    "reference_mean_anomaly": 1.106075,
+    "keywords": [
+        "Precessing-Spins",
+        "ManyMergers-QuasiCircular"
+    ],
+    "point_of_contact_email": "mroue@cita.utoronto.ca",
+    "authors_emails": [
+        "Mike Boyle <boyle@astro.cornell.edu>",
+        "Dan Hemberger <daniel.hemberger@gmail.com>",
+        "Larry Kidder  <kidder@astro.cornell.edu>",
+        "Geoffrey Lovelace <glovelace@fullerton.edu>",
+        "Abdul Mroue <mroue@cita.utoronto.ca>",
+        "Harald Pfeiffer <pfeiffer@cita.utoronto.ca>",
+        "Mark Scheel <scheel@tapir.caltech.edu>",
+        "Bela Szilagyi <bela@caltech.edu>",
+        "Nicholas Taylor <nwt2@cornell.edu>",
+        "Anil Zenginoglu <anil@caltech.edu>"
+    ],
+    "simulation_bibtex_keys": [
+        "Mroue:2013xna",
+        "Boyle:2019kee",
+        "SXSCatalogWebsite"
+    ],
+    "code_bibtex_keys": [
+        "Ossokine:2013zga",
+        "Hemberger:2012jz",
+        "Szilagyi:2009qz",
+        "Boyle:2009vi",
+        "Scheel:2008rj",
+        "Boyle:2007ft",
+        "Scheel:2006gg",
+        "Lindblom:2005qh",
+        "Pfeiffer:2002wt",
+        "SpECwebsite"
+    ],
+    "initial_data_bibtex_keys": [
+        "Buchman:2012dw",
+        "Lovelace:2008tw",
+        "Pfeiffer:2007yz",
+        "Caudill:2006hw",
+        "Cook:2004kt"
+    ],
+    "quasicircular_bibtex_keys": [
+        "Mroue:2012kv",
+        "Buonanno:2010yk",
+        "Mroue:2010re",
+        "Boyle:2007ft"
+    ],
+    "initial_separation": 18.0,
+    "initial_orbital_frequency": 0.0121924504189,
+    "initial_adot": -2.08721e-05,
+    "object1": "bh",
+    "object2": "bh",
+    "initial_ADM_energy": 0.9942762851590442,
+    "initial_ADM_linear_momentum": [
+        -3.1209476e-09,
+        3.1557011e-09,
+        6.06811693099e-05
+    ],
+    "initial_ADM_angular_momentum": [
+        0.1801772707763245,
+        -0.0005206143055669,
+        1.1372916982613452
+    ],
+    "initial_mass1": 0.599999999869773,
+    "initial_mass2": 0.40000000002438,
+    "initial_dimensionless_spin1": [
+        0.499999999917,
+        6.31999999999e-12,
+        -1.6372e-12
+    ],
+    "initial_dimensionless_spin2": [
+        -3.4259887e-09,
+        -4.272915e-10,
+        -1.2231115e-08
+    ],
+    "initial_position1": [
+        7.186587811472074,
+        0.0053593505958264,
+        0.0
+    ],
+    "initial_position2": [
+        -10.813412188527927,
+        0.0053593505958264,
+        0.0
+    ],
+    "relaxation_time": 450.0,
+    "common_horizon_time": 9877.44970066,
+    "remnant_mass": 0.954800263258,
+    "remnant_dimensionless_spin": [
+        0.115240717635,
+        -0.0141711671442,
+        0.674799298136
+    ],
+    "remnant_velocity": [
+        0.00040116188706,
+        0.000205784274557,
+        0.00114285619617
+    ],
+    "metadata_version": 1,
+    "spec_revisions": [],
+    "spells_revision": [],
+    "com_parameters": {
+        "space_translation": [
+            -0.01633514,
+            0.00389759,
+            -0.0132032
+        ],
+        "boost_velocity": [
+            1.99968529e-06,
+            -5.67403538e-06,
+            7.16513567e-05
+        ]
+    },
+    "initial_mass_ratio": 1.4999999995830076
+}
