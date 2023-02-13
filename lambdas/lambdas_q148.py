@@ -416,7 +416,7 @@ for i in range(len(catalog_list)):
     original_loss_value = loss(PhenomD_coeff_table / scale, theta_intrinsic_list[i], theta_extrinsic, f_uniform, NR_waveform)
     original_loss_list.append(original_loss_value)
     
-test = jnp.array(PhenomD_coeff_table) * np.random.rand(19,11) 
+test = jnp.array(PhenomD_coeff_table)
 
 params = test / scale
 loss_jit = jax.jit(jax.value_and_grad(total_loss))
@@ -447,7 +447,7 @@ data = np.append(data, original_loss)
 data = np.append(data, value)
 data_list = np.append(data_list, data)
 
-with open("/mnt/home/klam1/code/lambdas_data/lambdas_q148_rand_init_pos.txt", "w") as file:
+with open("/mnt/home/klam1/code/lambdas_data/lambdas_q148.dat", "w") as file:
     np.savetxt(file, data_list, delimiter=', ')
     
   
