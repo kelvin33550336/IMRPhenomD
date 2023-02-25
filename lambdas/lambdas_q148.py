@@ -1,4 +1,3 @@
-
 from typing import Callable, Iterator, Tuple
 import chex
 import jax
